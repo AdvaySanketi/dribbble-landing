@@ -17,7 +17,7 @@ const Footer = () => {
         <p>Careers</p>
         <p>Support</p>
       </div>
-      <div className="text-xs text-gray-500">@2025 Aaqib Hakeem</div>
+      <div className="text-xs text-gray-500">@2025 Advay Sanketi</div>
     </div>
   );
 };
